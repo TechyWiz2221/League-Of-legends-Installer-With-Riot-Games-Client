@@ -1,1 +1,1 @@
-# League-Of-legends-Installer-With-Riot-Games-Client
+# League-Of-legends-Installer
